@@ -1,2 +1,4 @@
 # normalisation-tensorflow
-Raising issues in batch and layer normalisation with TensorFlow
+Raising speed issues in batch and layer normalisation with TensorFlow.
+
+Done with María José Peláez: https://github.com/CotePelaez
